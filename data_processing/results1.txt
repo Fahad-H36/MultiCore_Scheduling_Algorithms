@@ -1,0 +1,26 @@
+PROCESS WITH MAX CPU USAGE:
+
+
+    Process_ID: 212
+
+    Arrival_Time: 5220
+
+    Execution_Time: 553
+
+    Memory_Usage: 0.21
+
+    CPU_Usage: 0.9
+
+
+PROCESS WITH MAX MEMORY USAGE:
+
+
+    Process_ID: 68
+
+    Arrival_Time: 1641
+
+    Execution_Time: 693
+
+    Memory_Usage: 0.9
+
+    CPU_Usage: 0.69
